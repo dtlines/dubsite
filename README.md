@@ -1,7 +1,7 @@
-# Dock
-Dock is a simple bootstrap html/css MENU for a mobile-friendly device.
+# wP_sD
+This is a simple html/css webpage template thats mobile-friendly.
 ### Todo:
-1. Add text to menu to allow other pages
+1. null
 
 ### Updates:
 null
