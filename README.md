@@ -4,7 +4,7 @@ This is a simple html/css webpage template thats mobile-friendly.
 1. null
 
 ### Updates:
-null
+1. null
 ## Thank you!
 
 
