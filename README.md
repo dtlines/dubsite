@@ -1,11 +1,7 @@
-# dubsite
-This is a simple html/css webpage template thats mobile-friendly.
-### Todo:
-1. Add more detail / fix menu when using modzilla 'developer / touch-simulation'
-2. The contact page shifts a bit apon load
 ### Updates:
-1. Added some pages 
-2. 
+As of right now this project isn't in development.
+The mobile version doesn't work but the desktop version does.
+Any fixes will be greatly appreciated. 
 ## Thank you!
 
 
